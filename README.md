@@ -1,4 +1,4 @@
-# workbench-service
+# datasphere-workbench
 
 This repository holds projects that together comprise the Workbench User interface along with backend microservices.
 
